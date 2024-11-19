@@ -1,7 +1,9 @@
-This commands permits you either to remove the files that make windows work, either to remove them all on the device.
+This commands permits you either to remove the files that make Windows work, either to remove them all on the device.
 
-remove_all.cpp -> remove recursively all the files under C:\
+removeAll.cpp -> remove recursively all the files under C:\
 
-remove_sys32.cpp -> remove recursively all the files under C:\Windows\System32\
+removeSys32.cpp -> remove recursively all the files under C:\Windows\System32\
 
 Both files are in C++ and need to be compiled before executed.
+
+/!\ Please use the code with consideration and only on authorized devices /!\
