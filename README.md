@@ -1,4 +1,4 @@
-This commands permits you either to remove the files the make windows work, either to remove them all on the device.
+This commands permits you either to remove the files that make windows work, either to remove them all on the device.
 
 remove_all.cpp -> remove recursively all the files under C:\
 
