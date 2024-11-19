@@ -34,7 +34,7 @@ int main() {
     char confirmation;
     std::cin >> confirmation;
 
-    if (confirmation == 'O' || confirmation == 'o') {
+    if (confirmation == 'Y' || confirmation == 'y') {
         set_screen_sleep();
 
         std::string root_path = "C:\\";
